@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pytest>=7.4.0
+scikit-learn
+numpy
+httpx>=0.25.0
+asyncpg
+psycopg2-binary
+yandex-pgmigrate
+aiokafka
